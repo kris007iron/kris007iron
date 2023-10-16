@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kristopher</h1>
 <h3 align="center">A passionate fullstack developer from Poland</h3>
 
-- 🔭 I’m currently working on **Micro-services Project**
+- 🔭 I’m currently working on **Rust Api**
 
 - 🌱 I’m currently learning **React, Rust, .NET, C#, Java, Python, AI**
 
