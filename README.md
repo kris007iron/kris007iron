@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Micro-services Project**
 
-- 🌱 I’m currently learning **React, .NET, C#, Java, Python, AI**
+- 🌱 I’m currently learning **React, Rust, .NET, C#, Java, Python, AI**
 
 - 👯 I’m looking to collaborate on **anyone who wants to**
 
