@@ -9,16 +9,15 @@
 
 - 🤝 I’m looking for help with [contenerizing](https://github.com/kris007iron/DotNETwithGPT/issues/1)
 
-- 👨‍💻 All of my projects are available at [https://github.com/kris007iron](https://github.com/kris007iron)
+- 👨‍💻 All of my projects are available at [github](https://github.com/kris007iron)
 
-- 📝 I regularly write articles on [https://www.quora.com/profile/Krzysztof-Mrugala-1/posts](https://www.quora.com/profile/Krzysztof-Mrugala-1/posts)
+- 📝 I regularly write articles on [quora](https://www.quora.com/profile/Krzysztof-Mrugala-1/posts)
 
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me on discord kris007_iron
 
-- 📄 Know about my experiences [https://www.quora.com/profile/Krzysztof-Mrugala-1](https://www.quora.com/profile/Krzysztof-Mrugala-1)
-
+- 📄 Know about my experiences on [medium](https://medium.com/@kris007.iron)
 - ⚡ Fun fact **I have English C1 ;)**
 
 <h3 align="left">Connect with me:</h3>
