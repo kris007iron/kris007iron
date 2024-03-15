@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kristopher</h1>
 <h3 align="center">A passionate fullstack developer from Poland</h3>
 
-- 🔭 I’m currently working on **Rust Api**
+- 🔭 I’m currently working on **School Projects**
 
 - 🌱 I’m currently learning **React, Rust, .NET, C#, Java, Python, AI**
 
 - 👯 I’m looking to collaborate on **anyone who wants to**
 
-- 🤝 I’m looking for help with [contenerizing](https://github.com/kris007iron/DotNETwithGPT/issues/1)
+<!--- 🤝 I’m looking for help with [contenerizing](https://github.com/kris007iron/DotNETwithGPT/issues/1)-->
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/kris007iron)
 
