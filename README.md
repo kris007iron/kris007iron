@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **School Projects**
 
-- 🌱 I’m currently learning **React, Rust, .NET, C#, Java, Python, AI**
+- 🌱 I’m currently learning **React, Rust, .NET, C#, Java, Python, SpringBoot**
 
 - 👯 I’m looking to collaborate on **anyone who wants to**
 
