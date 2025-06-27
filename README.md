@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kristopher</h1>
 <h3 align="center">A passionate fullstack developer from Poland</h3>
 
-- 🔭 I’m currently working on **School Projects**
+- 🔭 I’m currently working on **Security in Springboot and online shop project**
 
 - 🌱 I’m currently learning **React, Rust, .NET, C#, Java, Python, SpringBoot**
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/kris007iron)
 
-- 📝 I regularly write articles on [quora](https://www.quora.com/profile/Krzysztof-Mrugala-1/posts)
+- 📝 I regularly write articles on [daily.dev](**https://www.quora.com/profile/Krzysztof-Mrugala-1/posts**)
 
 - 💬 Ask me about **anything**
 
