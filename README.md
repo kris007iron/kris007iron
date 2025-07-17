@@ -11,11 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/kris007iron)
 
-- 📝 I regularly write articles on [daily.dev](**https://www.quora.com/profile/Krzysztof-Mrugala-1/posts**)
+- 📝 I regularly write articles on a [daily.dev](https://app.daily.dev/kris007iron)
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me on discord kris007_iron
+- 📫 How to reach me on Discord kris007_iron
 
 - 📄 Know about my experiences on [medium](https://medium.com/@kris007.iron)
 - ⚡ Fun fact **I have English C1 ;)**
