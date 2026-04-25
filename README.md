@@ -18,7 +18,7 @@
 - 📫 How to reach me on Discord kris007_iron
 
 - 📄 Know about my experiences on [medium](https://medium.com/@kris007.iron)
-- ⚡ Fun fact **I have English C1 ;)**
+- ⚡ Fun fact **I have English C1 ;)** (for those who know)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
